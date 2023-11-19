@@ -7,6 +7,7 @@ import three from "@/public/3.png";
 import one from "@/public/1.png";
 import two from "@/public/2.png";
 import four from "@/public/4.jpeg";
+import six from "@/public/6.jpeg";
 
 export const links = [
   {
@@ -84,7 +85,7 @@ export const projectsData = [
     description:
       "This is a role based store admin and user, Admin can create delete update products, orders and users, the other side user can login, buy products, give reviews to products",
     tags: ["React", "Express", "MongoDB", "Html-Css", "Stripe", "Cloudinary"],
-    // imageUrl: corpcommentImg,
+    imageUrl: six,
   },
   {
     title: "Xrypto",
